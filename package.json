@@ -33,7 +33,7 @@
     "eslint-plugin-react": "^3.6.3",
     "lab": "^7.0.0",
     "lab-babel": "^1.1.0",
-    "node-sass": "^3.4.1",
+    "node-sass": "^9.0.0",
     "sass-loader": "^3.1.1",
     "sinon": "^1.17.2",
     "style-loader": "^0.13.0",
@@ -45,14 +45,14 @@
     "flux": "^2.1.1",
     "good": "^6.4.0",
     "good-console": "^5.1.0",
-    "hapi": "^11.0.2",
+    "hapi": "^18.1.0",
     "hapi-react-views": "^4.0.0",
     "hapi-swagger": "^2.2.1",
     "inert": "^3.2.0",
     "joi": "^6.9.1",
     "react": "^0.14.0",
     "react-dom": "^0.14.0",
-    "superagent": "^1.4.0",
+    "superagent": "^8.1.2",
     "vision": "^3.0.0"
   }
 }
